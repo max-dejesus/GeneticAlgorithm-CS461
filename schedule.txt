@@ -1,0 +1,13 @@
+Optimized schedule found by genetic algorithm:
+SLA100A: Room = Loft 206, Time = 2p, Facilitator = Shaw
+SLA100B: Room = Frank 119, Time = 10a, Facilitator = Shaw
+SLA191A: Room = Frank 119, Time = 11a, Facilitator = Shaw
+SLA191B: Room = Loft 310, Time = 1p, Facilitator = Shaw
+SLA201: Room = Loft 206, Time = 1p, Facilitator = Glen
+SLA291: Room = Beach 201, Time = 11a, Facilitator = Singer
+SLA303: Room = Beach 301, Time = 12p, Facilitator = Glen
+SLA304: Room = Beach 201, Time = 2p, Facilitator = Glen
+SLA394: Room = Roman 201, Time = 12p, Facilitator = Singer
+SLA449: Room = Loft 206, Time = 3p, Facilitator = Tyler
+SLA451: Room = Loft 310, Time = 2p, Facilitator = Singer
+Total fitness: 54.0
