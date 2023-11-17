@@ -1,5 +1,5 @@
 # GeneticAlgorithm-CS461
-Implementation of a genetic algorithm in Python to find ideal schedules for a list of activities. Made for Intro to AI course at UMKC.
+Implementation of a genetic algorithm in Python to find ideal schedules for a list of activities. Made for Intro to AI course at UMKC. schedule.txt shows an example elite schedule and its fitness score.
 
 Uses Python Anaconda distribution and scipy library for specialized statistical functions.
 
