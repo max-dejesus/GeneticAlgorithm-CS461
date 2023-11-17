@@ -3,7 +3,7 @@ Implementation of a genetic algorithm in Python to find ideal schedules for a li
 
 Uses Python Anaconda distribution and scipy library for specialized statistical functions.
 
-Fitness function based on a list of rules:
+## Fitness function criteria
 *	For each activity, fitness starts at 0.
 *	Activity is scheduled at the same time in the same room as another of the activities: -0.5
 *	Room size:
